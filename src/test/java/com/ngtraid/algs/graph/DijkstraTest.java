@@ -1,6 +1,7 @@
-package com.jing.graph;
+package com.ngtraid.algs.graph;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 public class DijkstraTest {
     @Test

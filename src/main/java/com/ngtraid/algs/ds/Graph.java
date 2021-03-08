@@ -1,4 +1,4 @@
-package com.jing.ds;
+package com.ngtraid.algs.ds;
 
 import java.util.Arrays;
 

@@ -1,6 +1,6 @@
-package com.jing.graph;
+package com.ngtraid.algs.graph;
 
-import com.jing.ds.Graph;
+import com.ngtraid.algs.ds.Graph;
 
 public class Dijkstra {
     private static int[] dist;

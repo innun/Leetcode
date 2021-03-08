@@ -1,9 +1,8 @@
-package com.jing.ds;
+package com.ngtraid.algs.ds;
 
 import java.util.Random;
-import com.jing.ds.PriorityQueue;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 
 public class PriorityQueueTest {
